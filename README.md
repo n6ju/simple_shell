@@ -1,4 +1,4 @@
-team project on simple shell by najira and danay 
+eam project on simple shell by najira and danay 
 
                                                              SYNOPSIS
                                                              
